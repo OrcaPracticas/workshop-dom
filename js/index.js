@@ -39,13 +39,17 @@ const GLOSARY = {
         txt: "Retorna un NodeList de los elementos hijos segun el selector CSS dado",
         uri: "https://codesandbox.io/s/l30xokp1l",
     },
-    "Practica jugando con DOM y CSSOM": {
-        txt: "Viendo lo basico procederemos a jugar con EL DOM Y CSSOM",
-        uri: "./view/draw.html",
+    "Creando componentes": {
+        txt: "Se genera un js que nos permite crear componentes a placer",
+        uri: "./view/material.html",
     },
     "document.onreadystatechange": {
         txt: "Permite identificar los estados en los que se encuentra el documento, este trabaja en conjunto con document.readyState",
         uri: "./view/ready.html",
+    },
+    "Practica jugando con DOM y CSSOM": {
+        txt: "Viendo lo basico procederemos a jugar con EL DOM Y CSSOM",
+        uri: "./view/draw.html",
     },
 };
 
